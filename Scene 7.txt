@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hamlet: Act 1, Scene 5,
+=======
+Hamlet: Act 1, Scene 7
+>>>>>>> branch2
 
 Enter Ghost and Hamlet
 
